@@ -2,7 +2,7 @@
 <h3 align="center">Hands on Backend developer</h3>
 
 ```elixir
--------------------------
+
 OS: Windows
 Shell: Git Bash
 Education: Computer Science Student.
@@ -11,7 +11,7 @@ To reachout:akashdamerla@gmail.com
 X(Twitter):@DamerlaAka33388
 Linkedin: www.linkedin.com/in/akash-damerla
 Currently learning the following Skills....
--------------------------
+
 `````
 <h2>Languages</h2>
 
