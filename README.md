@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Akash</h1>
-<h3 align="center">Hands on Backend developer,</h3>
+<h3 align="center">Hands on Backend developer</h3>
 
 ```elixir
 -------------------------
@@ -7,6 +7,9 @@ OS: Windows
 Shell: Git Bash
 Education: Computer Science Student.
 Interests:Backend,Block-Chain(Solana),Distributed Systems.
+To reachout:akashdamerla@gmail.com
+X(Twitter):@DamerlaAka33388
+Linkedin: www.linkedin.com/in/akash-damerla
 Currently learning the following Skills....
 -------------------------
 `````
