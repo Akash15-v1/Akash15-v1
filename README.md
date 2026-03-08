@@ -2,7 +2,6 @@
 <h3 align="center">Hands on Backend developer,</h3>
 
 ```elixir
-Akash15-v1
 -------------------------
 OS: Windows
 Shell: Git Bash
