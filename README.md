@@ -1,10 +1,9 @@
 <h1 align="center">Hi , I'm Akash</h1>
-<h3 align="center">Hands on Backend developer</h3>
+<h3 align="center">Hands on Backend dev and Sas Builder</h3>
 
 ```elixir
-
-OS: Windows
-Shell: Git Bash
+I like building  products that save time, money and help make more money for users or orgs
+I am enthusiastic towards Products, Startups & companies that solving big pains of user
 Education: Computer Science Student.
 Interests:Backend,Block-Chain(Solana),Distributed Systems.
 To reachout:akashdamerla@gmail.com
