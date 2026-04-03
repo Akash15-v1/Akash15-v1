@@ -9,8 +9,7 @@ Education: Computer Science Student.
 Interests:Backend,Block-Chain(Solana),Distributed Systems.
 To reachout:akashdamerla@gmail.com
 X(Twitter):@DamerlaAka33388
-Linkedin: www.linkedin.com/in/akash-damerla
-Currently learning the following Skills....
+Linkedin: www.linkedin.com/in/akash-damerla.
 
 `````
 <h2>Languages</h2>
